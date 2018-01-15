@@ -8,8 +8,8 @@ Python 3.6:
   - Matplotlib, sklearn, pandas for the plotting (plot.py)
  
  ## Usage:
- The randoms names are in the names.txt file.<br>
- distance_function.py: Contains the different functions used for the computation.<br>
- name2email.py : Generate the email addresses from the names.<br>
- generate_couple.py : Generate the test dataset with similar and nonsimilar sets.<br>
- analyse-paper.py: Plot the ROC curve and the distributions.<br>
+  -The randoms names are in the `names.txt` file.
+  -`distance_function.py` : Contains the different functions used for the computation.
+  -`name2email.py` : Generate the email addresses from the names.
+  -`generate_couple.py` : Generate the test dataset with similar and nonsimilar sets.
+  -`analyse-paper.py` : Plot the ROC curve and the distributions.
